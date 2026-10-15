@@ -1,0 +1,11 @@
+{
+  "title": "치카치카 대작전",
+  "description": "왼쪽의 하얀 치아를 세균들로부터 지켜라! 몰려오는 균을 클릭으로 잡고, 휠을 굴려 공격력을 올리고, 터렛을 세워 40웨이브를 막아 내는 디펜스 게임이에요. 균에게 갉아먹힐수록 충치가 생기고 피가 나며 치아가 울상이 돼요. 위기에는 이빨 대폭발로 화면 속 균을 한 번에 날려 버리세요!",
+  "thumbnail": "thumb.png",
+  "controls": ["mouse", "keyboard", "touch"],
+  "players": "1",
+  "aspectRatio": "16:9",
+  "tags": ["디펜스", "타워디펜스", "클릭", "치아", "캐주얼"],
+  "madeWith": "Claude Code + Higgsfield",
+  "sdk": true
+}
